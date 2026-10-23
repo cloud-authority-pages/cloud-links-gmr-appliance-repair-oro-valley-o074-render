@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cloud-links-gmr-appliance-repair-oro-valley-o074
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
